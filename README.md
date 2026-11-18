@@ -1,6 +1,6 @@
 # HealthCart
 
-**Your Family's Wellness Starts Here.**
+**Your Family's Wellness Starts Here.**.
 
 AI-powered family grocery engine — a store that reshapes itself around your family's health every week.
 
